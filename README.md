@@ -1,7 +1,9 @@
 # DCGAN
 A small workshop for creating face images with a GAN in Pytorch.
 
-Mainly following [this](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html) Pytorch tutorial by Nathan Inkawhich.
+All code is provided in Google Colaboratory notebooks with the face data being managed in Google Drive.
+
+The workshop mainly follows [this](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html) Pytorch tutorial by Nathan Inkawhich.
 
 There are four notebooks:
 1. DCGAN: The notebook containing the full code and outputs
